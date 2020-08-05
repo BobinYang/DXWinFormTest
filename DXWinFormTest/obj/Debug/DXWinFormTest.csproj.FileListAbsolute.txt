@@ -1,0 +1,9 @@
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\bin\Debug\DXWinFormTest.exe
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\bin\Debug\DXWinFormTest.pdb
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.csprojResolveAssemblyReference.cache
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.Form1.resources
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.Properties.Resources.resources
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.csproj.GenerateResource.Cache
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.exe.licenses
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.exe
+d:\personal\documents\visual studio 2012\Projects\DXWinFormTest\DXWinFormTest\obj\Debug\DXWinFormTest.pdb
