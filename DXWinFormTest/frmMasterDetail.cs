@@ -76,6 +76,14 @@ namespace DXWinFormTest
         {
             BindData();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //子表格获取行数据
+            DevExpress.XtraGrid.Views.Grid.GridView currentView = (DevExpress.XtraGrid.Views.Grid.GridView)this.gridControl.FocusedView;
+            DetailInfo focusRow = currentView.GetFocusedRow() as DetailInfo; //用在事件中：currentView.GetRow(e.RowHandle) as DetailInfo;
+            XtraMessageBox.Show(focusRow.Name);
+        }
     }
 
     /// <summary>
